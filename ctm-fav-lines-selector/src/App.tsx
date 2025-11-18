@@ -1,5 +1,5 @@
 import './App.css'
-import { FavLinesSelector } from './components/favLinesSelector'
+import { FavLinesSelector } from './components/FavLinesSelector'
 
 function App() {
 
