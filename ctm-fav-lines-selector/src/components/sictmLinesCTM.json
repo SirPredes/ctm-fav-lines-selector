@@ -1,0 +1,4741 @@
+{
+    "linesInfo": [
+        {
+            "act": false,
+            "cod": "101",
+            "color": "#5C0720",
+            "dem": false,
+            "id": 234,
+            "nam": "Port d'Andratx - Palma",
+            "sec": "100",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Port d'Andratx - Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 1.0,
+                    "id": 11218,
+                    "nam": "Port d'Andratx"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11217,
+                    "nam": "Ma-1"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11222,
+                    "nam": "Andratx"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11216,
+                    "nam": "Camp de Mar"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "102",
+            "color": "#A4D3B6",
+            "dem": false,
+            "id": 237,
+            "nam": "Peguera - Palma",
+            "sec": "100",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Peguera - Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11238,
+                    "nam": "Galatzó"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11244,
+                    "nam": "Peguera"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "103",
+            "color": "#CE1328",
+            "dem": false,
+            "id": 3145,
+            "nam": "Santa Ponça - Palma",
+            "sec": "100",
+            "sessions": [
+                {
+                    "busTypeId": "L18",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Costa de la Calma - Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11237,
+                    "nam": "Santa Ponça"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11240,
+                    "nam": "Costa de la Calma"
+                },
+                {
+                    "dis": 12.0,
+                    "id": 11238,
+                    "nam": "Galatzó"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "104",
+            "color": "#A6C600",
+            "dem": false,
+            "id": 241,
+            "nam": "Magaluf - Palma",
+            "sec": "100",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Magaluf - Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11230,
+                    "nam": "Magaluf"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11229,
+                    "nam": "Palmanova"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11228,
+                    "nam": "Son Caliu"
+                },
+                {
+                    "dis": 12.0,
+                    "id": 11477,
+                    "nam": "Costa d'en Blanes - Portals Nous"
+                },
+                {
+                    "dis": 13.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "105",
+            "color": "#E3839E",
+            "dem": false,
+            "id": 242,
+            "nam": "Sol de Mallorca -  Palma",
+            "sec": "100",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Sol de Mallorca -  Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11477,
+                    "nam": "Costa d'en Blanes - Portals Nous"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11228,
+                    "nam": "Son Caliu"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11229,
+                    "nam": "Palmanova"
+                },
+                {
+                    "dis": 13.0,
+                    "id": 11230,
+                    "nam": "Magaluf"
+                },
+                {
+                    "dis": 16.0,
+                    "id": 11232,
+                    "nam": "Cala Vinyes"
+                },
+                {
+                    "dis": 18.0,
+                    "id": 11233,
+                    "nam": "Sol de Mallorca"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "106",
+            "color": "#764C1F",
+            "dem": false,
+            "id": 240,
+            "nam": "El Toro - Palma",
+            "sec": "100",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "El Toro - Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11236,
+                    "nam": "Nova Santa Ponça"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11237,
+                    "nam": "Santa Ponça"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11235,
+                    "nam": "El Toro"
+                },
+                {
+                    "dis": 14.0,
+                    "id": 11234,
+                    "nam": "Son Ferrer"
+                },
+                {
+                    "dis": 17.0,
+                    "id": 11231,
+                    "nam": "Sa Porrassa"
+                },
+                {
+                    "dis": 18.0,
+                    "id": 11229,
+                    "nam": "Palmanova"
+                },
+                {
+                    "dis": 20.0,
+                    "id": 11228,
+                    "nam": "Son Caliu"
+                },
+                {
+                    "dis": 22.0,
+                    "id": 11477,
+                    "nam": "Costa d'en Blanes - Portals Nous"
+                },
+                {
+                    "dis": 23.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "107",
+            "color": "#0A7BB9",
+            "dem": false,
+            "id": 239,
+            "nam": "Es Capdellà - Palma",
+            "sec": "100",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Es Capdellà - Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11241,
+                    "nam": "Es Capdellà"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11242,
+                    "nam": "Calvià"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11243,
+                    "nam": "Ma-1015"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11239,
+                    "nam": "Ma-1014"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11245,
+                    "nam": "Son Bugadelles"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11238,
+                    "nam": "Galatzó"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11237,
+                    "nam": "Santa Ponça"
+                },
+                {
+                    "dis": 17.0,
+                    "id": 11240,
+                    "nam": "Costa de la Calma"
+                },
+                {
+                    "dis": 23.0,
+                    "id": 11229,
+                    "nam": "Palmanova"
+                },
+                {
+                    "dis": 25.0,
+                    "id": 11228,
+                    "nam": "Son Caliu"
+                },
+                {
+                    "dis": 27.0,
+                    "id": 11477,
+                    "nam": "Costa d'en Blanes - Portals Nous"
+                },
+                {
+                    "dis": 28.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "108",
+            "color": "#AA0E51",
+            "dem": false,
+            "id": 244,
+            "nam": "Son Caliu - Palma",
+            "sec": "100",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Son Caliu - Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11228,
+                    "nam": "Son Caliu"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11477,
+                    "nam": "Costa d'en Blanes - Portals Nous"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11226,
+                    "nam": "Portals Nous"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11225,
+                    "nam": "Bendinat"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11223,
+                    "nam": "Cas Català"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11166,
+                    "nam": "Sant Agustí"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11165,
+                    "nam": "Cala Major"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "121",
+            "color": "#004924",
+            "dem": false,
+            "id": 233,
+            "nam": "Sant Elm - Andratx",
+            "sec": "100",
+            "sessions": [
+                {
+                    "busTypeId": "M8",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Sant Elm - Andratx"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11220,
+                    "nam": "Sant Elm"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11221,
+                    "nam": "Ma-1030"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11219,
+                    "nam": "S'Arracó"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11222,
+                    "nam": "Andratx"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11217,
+                    "nam": "Ma-1"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11218,
+                    "nam": "Port d'Andratx"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "122",
+            "color": "#E3C87F",
+            "dem": false,
+            "id": 235,
+            "nam": "Port d'Andratx - Santa Ponça",
+            "sec": "100",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Port d'Andratx - Santa Ponça"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11218,
+                    "nam": "Port d'Andratx"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11217,
+                    "nam": "Ma-1"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11222,
+                    "nam": "Andratx"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11216,
+                    "nam": "Camp de Mar"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11244,
+                    "nam": "Peguera"
+                },
+                {
+                    "dis": 13.0,
+                    "id": 11238,
+                    "nam": "Galatzó"
+                },
+                {
+                    "dis": 14.0,
+                    "id": 11237,
+                    "nam": "Santa Ponça"
+                },
+                {
+                    "dis": 18.0,
+                    "id": 11240,
+                    "nam": "Costa de la Calma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "123",
+            "color": "#7E7F75",
+            "dem": false,
+            "id": 236,
+            "nam": "Santa Ponça - Cas Català",
+            "sec": "100",
+            "sessions": [
+                {
+                    "busTypeId": "U12he",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Santa Ponça - Cas Català"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11237,
+                    "nam": "Santa Ponça"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11236,
+                    "nam": "Nova Santa Ponça"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11235,
+                    "nam": "El Toro"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11234,
+                    "nam": "Son Ferrer"
+                },
+                {
+                    "dis": 13.0,
+                    "id": 11231,
+                    "nam": "Sa Porrassa"
+                },
+                {
+                    "dis": 14.0,
+                    "id": 11230,
+                    "nam": "Magaluf"
+                },
+                {
+                    "dis": 19.0,
+                    "id": 11229,
+                    "nam": "Palmanova"
+                },
+                {
+                    "dis": 24.0,
+                    "id": 11228,
+                    "nam": "Son Caliu"
+                },
+                {
+                    "dis": 26.0,
+                    "id": 11477,
+                    "nam": "Costa d'en Blanes - Portals Nous"
+                },
+                {
+                    "dis": 27.0,
+                    "id": 11226,
+                    "nam": "Portals Nous"
+                },
+                {
+                    "dis": 29.0,
+                    "id": 11225,
+                    "nam": "Bendinat"
+                },
+                {
+                    "dis": 30.0,
+                    "id": 11223,
+                    "nam": "Cas Català"
+                },
+                {
+                    "dis": 31.0,
+                    "id": 11503,
+                    "nam": "Illetes"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "131",
+            "color": "#F8E100",
+            "dem": false,
+            "id": 3155,
+            "nam": "Santa Ponça - Banyalbufar",
+            "sec": "100",
+            "sessions": [
+                {
+                    "busTypeId": "I12",
+                    "cur": true,
+                    "end": "1972-10-31",
+                    "ini": "1972-04-01",
+                    "nam": "Santa Ponça - Banyalbufar"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11237,
+                    "nam": "Santa Ponça"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11238,
+                    "nam": "Galatzó"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11244,
+                    "nam": "Peguera"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11216,
+                    "nam": "Camp de Mar"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11222,
+                    "nam": "Andratx"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11246,
+                    "nam": "Estellencs"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11247,
+                    "nam": "Ma-10, Estellencs"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11249,
+                    "nam": "Ma-10, Banyalbufar"
+                },
+                {
+                    "dis": 12.0,
+                    "id": 11248,
+                    "nam": "Banyalbufar"
+                },
+                {
+                    "dis": 15.0,
+                    "id": 11252,
+                    "nam": "Esporles"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "201",
+            "color": "#AB5500",
+            "dem": false,
+            "id": 222,
+            "nam": "Galilea - Palma",
+            "sec": "200",
+            "sessions": [
+                {
+                    "busTypeId": "M8",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Galilea – Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11190,
+                    "nam": "Galilea"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11191,
+                    "nam": "Ma-1032"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11193,
+                    "nam": "Puigpunyent"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11192,
+                    "nam": "Son Serralta"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 2
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "202",
+            "color": "#CDDAC2",
+            "dem": false,
+            "id": 243,
+            "nam": "Estellencs - Palma",
+            "sec": "200",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Estellencs - Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11254,
+                    "nam": "S'Esgleieta"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11250,
+                    "nam": "Ses Rogetes de Canet"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11251,
+                    "nam": "Ma-1120"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11252,
+                    "nam": "Esporles"
+                },
+                {
+                    "dis": 12.0,
+                    "id": 11249,
+                    "nam": "Ma-10, Banyalbufar"
+                },
+                {
+                    "dis": 13.0,
+                    "id": 11248,
+                    "nam": "Banyalbufar"
+                },
+                {
+                    "dis": 17.0,
+                    "id": 11247,
+                    "nam": "Ma-10, Estellencs"
+                },
+                {
+                    "dis": 18.0,
+                    "id": 11246,
+                    "nam": "Estellencs"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 2
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "203",
+            "color": "#A6C600",
+            "dem": false,
+            "id": 3013,
+            "nam": "Valldemossa / Deià",
+            "sec": "200",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Port de Sóller - Valldemossa - Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11254,
+                    "nam": "S'Esgleieta"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11447,
+                    "nam": "Son Maixella"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11314,
+                    "nam": "Valldemossa"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11315,
+                    "nam": "Ma-10, Valldemossa"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11313,
+                    "nam": "Ma-10, Deià"
+                },
+                {
+                    "dis": 12.0,
+                    "id": 11310,
+                    "nam": "Deià"
+                },
+                {
+                    "dis": 14.0,
+                    "id": 11311,
+                    "nam": "S'Empeltada"
+                },
+                {
+                    "dis": 15.0,
+                    "id": 11312,
+                    "nam": "Llucalcari"
+                },
+                {
+                    "dis": 16.0,
+                    "id": 11299,
+                    "nam": "Ma-10, Sóller"
+                },
+                {
+                    "dis": 17.0,
+                    "id": 11297,
+                    "nam": "Sóller"
+                },
+                {
+                    "dis": 21.0,
+                    "id": 11296,
+                    "nam": "Port de Sóller"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 2
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "204",
+            "color": "#FFBA00",
+            "dem": false,
+            "id": 3014,
+            "nam": "Port de Sóller - Palma",
+            "sec": "200",
+            "sessions": [
+                {
+                    "busTypeId": "L15",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Port de Sóller - Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11296,
+                    "nam": "Port de Sóller"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11297,
+                    "nam": "Sóller"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11196,
+                    "nam": "Ma-11"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11194,
+                    "nam": "Palmanyola"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11176,
+                    "nam": "Son Sardina"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 2
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "205",
+            "color": "#4B799F",
+            "dem": false,
+            "id": 223,
+            "nam": "Bunyola - Palma",
+            "sec": "200",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Bunyola – Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11176,
+                    "nam": "Son Sardina"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11194,
+                    "nam": "Palmanyola"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11196,
+                    "nam": "Ma-11"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11195,
+                    "nam": "Bunyola"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11197,
+                    "nam": "Pla de sa Coma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 2
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "231",
+            "color": "#7E7F75",
+            "dem": false,
+            "id": 3119,
+            "nam": "Port de Sóller - Alcúdia",
+            "sec": "200",
+            "sessions": [
+                {
+                    "busTypeId": "I12",
+                    "cur": true,
+                    "end": "1972-10-31",
+                    "ini": "1972-04-01",
+                    "nam": "Port de Sóller - Alcúdia"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11296,
+                    "nam": "Port de Sóller"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11297,
+                    "nam": "Sóller"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11458,
+                    "nam": "Ma-10, Fornalutx"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11317,
+                    "nam": "Ma-10, Escorca"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11318,
+                    "nam": "Lluc"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11459,
+                    "nam": "Ma-10, Pollença"
+                },
+                {
+                    "dis": 13.0,
+                    "id": 11321,
+                    "nam": "Pollença"
+                },
+                {
+                    "dis": 16.0,
+                    "id": 11324,
+                    "nam": "El Vilar"
+                },
+                {
+                    "dis": 17.0,
+                    "id": 11325,
+                    "nam": "Port de Pollença"
+                },
+                {
+                    "dis": 21.0,
+                    "id": 11326,
+                    "nam": "Ma-2220, Pollença"
+                },
+                {
+                    "dis": 22.0,
+                    "id": 11288,
+                    "nam": "Ma-2220, Alcúdia"
+                },
+                {
+                    "dis": 23.0,
+                    "id": 11289,
+                    "nam": "Sa Marina"
+                },
+                {
+                    "dis": 24.0,
+                    "id": 11286,
+                    "nam": "Alcúdia"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 2
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "232",
+            "color": "#BC3A6B",
+            "dem": false,
+            "id": 3015,
+            "nam": "Port de Sóller - Fornalutx",
+            "sec": "200",
+            "sessions": [
+                {
+                    "busTypeId": "M8",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Port de Sóller - Fornalutx"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11296,
+                    "nam": "Port de Sóller"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11297,
+                    "nam": "Sóller"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11295,
+                    "nam": "Fornalutx"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 2
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "301",
+            "color": "#FFD900",
+            "dem": false,
+            "id": 3016,
+            "nam": "Port de Pollença - Palma",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "L15",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Port de Pollença - Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11325,
+                    "nam": "Port de Pollença"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11324,
+                    "nam": "El Vilar"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11321,
+                    "nam": "Pollença"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11322,
+                    "nam": "Crestatx"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11182,
+                    "nam": "Inca"
+                },
+                {
+                    "dis": 16.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "302",
+            "color": "#76A7B9",
+            "dem": false,
+            "id": 3017,
+            "nam": "Can Picafort - Palma",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "L15",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Can Picafort - Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11329,
+                    "nam": "Can Picafort"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11290,
+                    "nam": "Platja de Muro"
+                },
+                {
+                    "dis": 13.0,
+                    "id": 11283,
+                    "nam": "Platja d'Alcúdia"
+                },
+                {
+                    "dis": 17.0,
+                    "id": 11284,
+                    "nam": "Port d'Alcúdia"
+                },
+                {
+                    "dis": 19.0,
+                    "id": 11286,
+                    "nam": "Alcúdia"
+                },
+                {
+                    "dis": 20.0,
+                    "id": 11186,
+                    "nam": "Sa Pobla"
+                },
+                {
+                    "dis": 21.0,
+                    "id": 11182,
+                    "nam": "Inca"
+                },
+                {
+                    "dis": 26.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "303",
+            "color": "#FF4E00",
+            "dem": false,
+            "id": 224,
+            "nam": "Bunyola - H. Joan March - Palma",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "M8",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Hospital Joan March – Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11195,
+                    "nam": "Bunyola"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11196,
+                    "nam": "Ma-11"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11206,
+                    "nam": "Urb. sa Coma"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11203,
+                    "nam": "Hospital Joan March"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11205,
+                    "nam": "Cas Binissalemer"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11199,
+                    "nam": "Ma-2031"
+                },
+                {
+                    "dis": 12.0,
+                    "id": 11198,
+                    "nam": "Es Garrovers"
+                },
+                {
+                    "dis": 14.0,
+                    "id": 11200,
+                    "nam": "Son Daviu"
+                },
+                {
+                    "dis": 15.0,
+                    "id": 11201,
+                    "nam": "Nova Cabana"
+                },
+                {
+                    "dis": 16.0,
+                    "id": 11202,
+                    "nam": "Sa Cabana"
+                },
+                {
+                    "dis": 17.0,
+                    "id": 11175,
+                    "nam": "Polígon Son Castelló"
+                },
+                {
+                    "dis": 18.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "304",
+            "color": "#764B1E",
+            "dem": false,
+            "id": 3018,
+            "nam": "Inca - Sencelles - Palma",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "M8",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Inca - Sencelles - Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11182,
+                    "nam": "Inca"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11302,
+                    "nam": "Ma-3241"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11303,
+                    "nam": "Costitx"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11301,
+                    "nam": "Ma-3121"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11305,
+                    "nam": "Sencelles"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11277,
+                    "nam": "Biniali"
+                },
+                {
+                    "dis": 12.0,
+                    "id": 11281,
+                    "nam": "Ma-3020"
+                },
+                {
+                    "dis": 13.0,
+                    "id": 11280,
+                    "nam": "Ses Alqueries"
+                },
+                {
+                    "dis": 14.0,
+                    "id": 11282,
+                    "nam": "Santa Eugènia"
+                },
+                {
+                    "dis": 15.0,
+                    "id": 11278,
+                    "nam": "Ma-3011"
+                },
+                {
+                    "dis": 16.0,
+                    "id": 11279,
+                    "nam": "Ses Olleries"
+                },
+                {
+                    "dis": 17.0,
+                    "id": 11320,
+                    "nam": "S'Hostalot"
+                },
+                {
+                    "dis": 18.0,
+                    "id": 11319,
+                    "nam": "Son Ferriol"
+                },
+                {
+                    "dis": 19.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "311",
+            "color": "#F5B490",
+            "dem": false,
+            "id": 3019,
+            "nam": "Mancor de la Vall - Inca",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "M8",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Mancor de la Vall - Inca - Muro"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11182,
+                    "nam": "Inca"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11181,
+                    "nam": "Lloseta"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11308,
+                    "nam": "Biniamar"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11304,
+                    "nam": "Mancor de la Vall"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "312",
+            "color": "#93CB36",
+            "dem": false,
+            "id": 3020,
+            "nam": "Lluc - Inca - Muro",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "I12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Lluc - Inca - Muro"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11318,
+                    "nam": "Lluc"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11316,
+                    "nam": "Es Guix"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11307,
+                    "nam": "Caimari"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11306,
+                    "nam": "Selva"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11182,
+                    "nam": "Inca"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11185,
+                    "nam": "Muro"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "313",
+            "color": "#223A79",
+            "dem": false,
+            "id": 3154,
+            "nam": "Selva - Inca",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "M8",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Selva - Inca"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11182,
+                    "nam": "Inca"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11306,
+                    "nam": "Selva"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11309,
+                    "nam": "Moscari"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11307,
+                    "nam": "Caimari"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "314",
+            "color": "#EE6100",
+            "dem": false,
+            "id": 3021,
+            "nam": "Campanet / Búger",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "M8",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Campanet / Búger"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11186,
+                    "nam": "Sa Pobla"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11446,
+                    "nam": "Búger"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11300,
+                    "nam": "Campanet"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11182,
+                    "nam": "Inca"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "315",
+            "color": "#5B3379",
+            "dem": false,
+            "id": 3123,
+            "nam": "Sa Pobla - Badia d'Alcúdia",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-11-30",
+                    "ini": "1972-03-01",
+                    "nam": "Sa Pobla - Badia d'Alcúdia"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11186,
+                    "nam": "Sa Pobla"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11185,
+                    "nam": "Muro"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11329,
+                    "nam": "Can Picafort"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11290,
+                    "nam": "Platja de Muro"
+                },
+                {
+                    "dis": 15.0,
+                    "id": 11283,
+                    "nam": "Platja d'Alcúdia"
+                },
+                {
+                    "dis": 19.0,
+                    "id": 11284,
+                    "nam": "Port d'Alcúdia"
+                },
+                {
+                    "dis": 21.0,
+                    "id": 11286,
+                    "nam": "Alcúdia"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "316",
+            "color": "#7E7F76",
+            "dem": false,
+            "id": 3022,
+            "nam": "Son Serra - Inca",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Can Picafort - Inca"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11328,
+                    "nam": "Son Serra de Marina"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11329,
+                    "nam": "Can Picafort"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11327,
+                    "nam": "Santa Margalida"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11184,
+                    "nam": "Llubí"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11182,
+                    "nam": "Inca"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "321",
+            "color": "#81CAD2",
+            "dem": false,
+            "id": 3023,
+            "nam": "Cala de Sant Vicenç",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "M8",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Cala de Sant Vicenç - Port de Pollença"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11325,
+                    "nam": "Port de Pollença"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11324,
+                    "nam": "El Vilar"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11323,
+                    "nam": "Cala de Sant Vicenç"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11321,
+                    "nam": "Pollença"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "322",
+            "color": "#13713C",
+            "dem": false,
+            "id": 3024,
+            "nam": "Pollença - Port d'Alcúdia",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "U12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Pollença - Port d'Alcúdia"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11321,
+                    "nam": "Pollença"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11324,
+                    "nam": "El Vilar"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11325,
+                    "nam": "Port de Pollença"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11326,
+                    "nam": "Ma-2220, Pollença"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11288,
+                    "nam": "Ma-2220, Alcúdia"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11289,
+                    "nam": "Sa Marina"
+                },
+                {
+                    "dis": 12.0,
+                    "id": 11286,
+                    "nam": "Alcúdia"
+                },
+                {
+                    "dis": 13.0,
+                    "id": 11284,
+                    "nam": "Port d'Alcúdia"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "323",
+            "color": "#C6DAC2",
+            "dem": false,
+            "id": 3148,
+            "nam": "Alcanada - Es Mal Pas",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "U12e",
+                    "cur": true,
+                    "end": "1972-10-31",
+                    "ini": "1972-05-01",
+                    "nam": "Alcúdia - Alcanada"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11285,
+                    "nam": "Alcanada"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11284,
+                    "nam": "Port d'Alcúdia"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11286,
+                    "nam": "Alcúdia"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11502,
+                    "nam": "Es Mal Pas"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "324",
+            "color": "#EC9900",
+            "dem": false,
+            "id": 3100,
+            "nam": "Can Picafort - Alcúdia",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "U12e",
+                    "cur": true,
+                    "end": "1972-10-31",
+                    "ini": "1972-04-01",
+                    "nam": "Alcúdia - Can Picafort"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11329,
+                    "nam": "Can Picafort"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11290,
+                    "nam": "Platja de Muro"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11283,
+                    "nam": "Platja d'Alcúdia"
+                },
+                {
+                    "dis": 14.0,
+                    "id": 11284,
+                    "nam": "Port d'Alcúdia"
+                },
+                {
+                    "dis": 16.0,
+                    "id": 11286,
+                    "nam": "Alcúdia"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "325",
+            "color": "#E6CB93",
+            "dem": false,
+            "id": 3149,
+            "nam": "Alcúdia - Cala Rajada",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "I12",
+                    "cur": true,
+                    "end": "1972-10-31",
+                    "ini": "1972-04-01",
+                    "nam": "Alcúdia - Cala Rajada"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11286,
+                    "nam": "Alcúdia"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11284,
+                    "nam": "Port d'Alcúdia"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11283,
+                    "nam": "Platja d'Alcúdia"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11290,
+                    "nam": "Platja de Muro"
+                },
+                {
+                    "dis": 13.0,
+                    "id": 11329,
+                    "nam": "Can Picafort"
+                },
+                {
+                    "dis": 17.0,
+                    "id": 11291,
+                    "nam": "Artà"
+                },
+                {
+                    "dis": 18.0,
+                    "id": 11394,
+                    "nam": "Capdepera"
+                },
+                {
+                    "dis": 20.0,
+                    "id": 11395,
+                    "nam": "Cala Rajada"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "327",
+            "color": "#630828",
+            "dem": false,
+            "id": 3157,
+            "nam": "Alcúdia - Estany Petit",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "U12e",
+                    "cur": true,
+                    "end": "1972-10-31",
+                    "ini": "1972-05-02",
+                    "nam": "Alcúdia - Estany Petit"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11286,
+                    "nam": "Alcúdia"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11284,
+                    "nam": "Port d'Alcúdia"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11283,
+                    "nam": "Platja d'Alcúdia"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "331",
+            "color": "#CDDAC2",
+            "dem": false,
+            "id": 3026,
+            "nam": "Alaró - Orient",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "M8",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Alaró - Orient"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 1.0,
+                    "id": 11179,
+                    "nam": "Consell"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11276,
+                    "nam": "Alaró"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11294,
+                    "nam": "Orient"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "334",
+            "color": "#980000",
+            "dem": false,
+            "id": 3106,
+            "nam": "Alcúdia - Formentor",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "I12",
+                    "cur": true,
+                    "end": "1972-10-31",
+                    "ini": "1972-05-02",
+                    "nam": "Alcúdia - Platja de Formentor"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11286,
+                    "nam": "Alcúdia"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11289,
+                    "nam": "Sa Marina"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11288,
+                    "nam": "Ma-2220, Alcúdia"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11326,
+                    "nam": "Ma-2220, Pollença"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11325,
+                    "nam": "Port de Pollença"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11454,
+                    "nam": "Platja de Formentor"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11500,
+                    "nam": "Far de Formentor"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "341",
+            "color": "#004924",
+            "dem": false,
+            "id": 225,
+            "nam": "Pòrtol - Son Llàtzer - FAN",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "M8",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Pòrtol – Estació de Marratxí"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11207,
+                    "nam": "Pòrtol Nou"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11208,
+                    "nam": "Pòrtol"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11209,
+                    "nam": "Sa Cabaneta"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11210,
+                    "nam": "Sant Marçal"
+                },
+                {
+                    "dis": 12.0,
+                    "id": 11211,
+                    "nam": "Son Verí"
+                },
+                {
+                    "dis": 13.0,
+                    "id": 11173,
+                    "nam": "Marratxí / es Figueral"
+                },
+                {
+                    "dis": 14.0,
+                    "id": 11171,
+                    "nam": "Pont d'Inca Nou"
+                },
+                {
+                    "dis": 15.0,
+                    "id": 11170,
+                    "nam": "Pont d'Inca"
+                },
+                {
+                    "dis": 17.0,
+                    "id": 11464,
+                    "nam": "Cas Capità"
+                },
+                {
+                    "dis": 19.0,
+                    "id": 11465,
+                    "nam": "Pla de na Tesa"
+                },
+                {
+                    "dis": 21.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "342",
+            "color": "#CE0000",
+            "dem": false,
+            "id": 3027,
+            "nam": "Alaró - Estació - Consell",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "M8",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Alaró - Estació - Consell"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11276,
+                    "nam": "Alaró"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11179,
+                    "nam": "Consell"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "343d",
+            "color": "#1BA734",
+            "dem": true,
+            "id": 3227,
+            "nam": "Santa Eugènia - Santa Maria",
+            "sec": "300",
+            "sessions": [
+                {
+                    "busTypeId": "M8",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Santa Eugènia - Santa Maria"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11282,
+                    "nam": "Santa Eugènia"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11466,
+                    "nam": "Ma-3040"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11178,
+                    "nam": "Santa Maria"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "401",
+            "color": "#A5CFBA",
+            "dem": false,
+            "id": 3066,
+            "nam": "Cala Millor - Palma",
+            "sec": "400",
+            "sessions": [
+                {
+                    "busTypeId": "I15",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Cala Millor - Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11432,
+                    "nam": "Cala Millor"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11431,
+                    "nam": "sa Coma"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11430,
+                    "nam": "S'Illot"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11427,
+                    "nam": "Portocristo"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11189,
+                    "nam": "Manacor"
+                },
+                {
+                    "dis": 14.0,
+                    "id": 11445,
+                    "nam": "Vilafranca"
+                },
+                {
+                    "dis": 15.0,
+                    "id": 11213,
+                    "nam": "Montuïri"
+                },
+                {
+                    "dis": 16.0,
+                    "id": 11212,
+                    "nam": "Algaida"
+                },
+                {
+                    "dis": 17.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "403",
+            "color": "#E5C992",
+            "dem": false,
+            "id": 3068,
+            "nam": "Campos - Algaida - Palma",
+            "sec": "400",
+            "sessions": [
+                {
+                    "busTypeId": "I12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Campos - Algaida - Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11393,
+                    "nam": "Campos"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11214,
+                    "nam": "Porreres"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11213,
+                    "nam": "Montuïri"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11212,
+                    "nam": "Algaida"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11386,
+                    "nam": "Ma-15"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11319,
+                    "nam": "Son Ferriol"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "411",
+            "color": "#E55900",
+            "dem": false,
+            "id": 3129,
+            "nam": "Cala Rajada - Manacor",
+            "sec": "400",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Cala Rajada - Manacor"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11395,
+                    "nam": "Cala Rajada"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11394,
+                    "nam": "Capdepera"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11291,
+                    "nam": "Artà"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11433,
+                    "nam": "Sant Llorenç"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11189,
+                    "nam": "Manacor"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "411e",
+            "color": "#E55900",
+            "dem": false,
+            "id": 3158,
+            "nam": "Cala Rajada - Palma",
+            "sec": "400",
+            "sessions": [
+                {
+                    "busTypeId": "I15",
+                    "cur": true,
+                    "end": "1972-10-31",
+                    "ini": "1972-05-01",
+                    "nam": "Cala Rajada - Palma"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11395,
+                    "nam": "Cala Rajada"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11394,
+                    "nam": "Capdepera"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11291,
+                    "nam": "Artà"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11433,
+                    "nam": "Sant Llorenç"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "412",
+            "color": "#F5B490",
+            "dem": false,
+            "id": 3126,
+            "nam": "Costa dels Pins - Manacor",
+            "sec": "400",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Costa dels Pins - Manacor"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11189,
+                    "nam": "Manacor"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11433,
+                    "nam": "Sant Llorenç"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11437,
+                    "nam": "Son Servera"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11432,
+                    "nam": "Cala Millor"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11435,
+                    "nam": "Cala Bona"
+                },
+                {
+                    "dis": 14.0,
+                    "id": 11438,
+                    "nam": "Port Nou"
+                },
+                {
+                    "dis": 15.0,
+                    "id": 11436,
+                    "nam": "Costa dels Pins"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "416",
+            "color": "#FFAC00",
+            "dem": false,
+            "id": 3071,
+            "nam": "Cales de Mallorca - Manacor",
+            "sec": "400",
+            "sessions": [
+                {
+                    "busTypeId": "I8",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Cales de Mallorca - Manacor"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11189,
+                    "nam": "Manacor"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11414,
+                    "nam": "Son Macià"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11399,
+                    "nam": "Cales de Mallorca"
+                },
+                {
+                    "dis": 12.0,
+                    "id": 11400,
+                    "nam": "Cala Murada"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "417",
+            "color": "#C61901",
+            "dem": false,
+            "id": 3072,
+            "nam": "Porreres - Manacor - Son Carrió",
+            "sec": "400",
+            "sessions": [
+                {
+                    "busTypeId": "I12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Porreres - Manacor - Son Carrió"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11214,
+                    "nam": "Porreres"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11445,
+                    "nam": "Vilafranca"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11189,
+                    "nam": "Manacor"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11433,
+                    "nam": "Sant Llorenç"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11434,
+                    "nam": "Son Carrió"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "421",
+            "color": "#E3839E",
+            "dem": false,
+            "id": 3028,
+            "nam": "Colònia de Sant Pere - Artà",
+            "sec": "400",
+            "sessions": [
+                {
+                    "busTypeId": "T7",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Colònia de Sant Pere - Artà"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11292,
+                    "nam": "Colònia de Sant Pere"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11291,
+                    "nam": "Artà"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "422",
+            "color": "#7D6C37",
+            "dem": false,
+            "id": 247,
+            "nam": "Cala Mesquida - Cala Rajada",
+            "sec": "400",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-10-31",
+                    "ini": "1972-04-11",
+                    "nam": "Cala Mesquida - Cala Rajada"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11396,
+                    "nam": "Cala Mesquida"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11394,
+                    "nam": "Capdepera"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11395,
+                    "nam": "Cala Rajada"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "423",
+            "color": "#93CB36",
+            "dem": false,
+            "id": 249,
+            "nam": "Font de sa Cala - Cala Rajada",
+            "sec": "400",
+            "sessions": [
+                {
+                    "busTypeId": "U12h",
+                    "cur": true,
+                    "end": "1972-10-31",
+                    "ini": "1972-04-01",
+                    "nam": "Font de sa Cala - Cala Rajada"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11473,
+                    "nam": "Cala Provençals"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11451,
+                    "nam": "Sa Font de sa Cala"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11472,
+                    "nam": "N'Aguait"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11394,
+                    "nam": "Capdepera"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11395,
+                    "nam": "Cala Rajada"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "424",
+            "color": "#522E55",
+            "dem": false,
+            "id": 254,
+            "nam": "Cala Rajada - Portocristo",
+            "sec": "400",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-10-31",
+                    "ini": "1972-04-01",
+                    "nam": "Cala Rajada - Portocristo"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11395,
+                    "nam": "Cala Rajada"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11394,
+                    "nam": "Capdepera"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11397,
+                    "nam": "Canyamel"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11437,
+                    "nam": "Son Servera"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11435,
+                    "nam": "Cala Bona"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11432,
+                    "nam": "Cala Millor"
+                },
+                {
+                    "dis": 14.0,
+                    "id": 11431,
+                    "nam": "sa Coma"
+                },
+                {
+                    "dis": 17.0,
+                    "id": 11430,
+                    "nam": "S'Illot"
+                },
+                {
+                    "dis": 18.0,
+                    "id": 11427,
+                    "nam": "Portocristo"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "425",
+            "color": "#F6E100",
+            "dem": false,
+            "id": 3132,
+            "nam": "Cala Bona - Portocristo",
+            "sec": "400",
+            "sessions": [
+                {
+                    "busTypeId": "U12he",
+                    "cur": true,
+                    "end": "1972-10-15",
+                    "ini": "1972-05-16",
+                    "nam": "Cala Bona - Portocristo"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11435,
+                    "nam": "Cala Bona"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11432,
+                    "nam": "Cala Millor"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11431,
+                    "nam": "sa Coma"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11430,
+                    "nam": "S'Illot"
+                },
+                {
+                    "dis": 12.0,
+                    "id": 11427,
+                    "nam": "Portocristo"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "427",
+            "color": "#980000",
+            "dem": false,
+            "id": 3131,
+            "nam": "Cala Mendia - Portocristo",
+            "sec": "400",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-10-31",
+                    "ini": "1972-04-11",
+                    "nam": "Cala Mendia - Portocristo"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11427,
+                    "nam": "Portocristo"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11428,
+                    "nam": "Cala Anguila - Cala Magrana"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11467,
+                    "nam": "Cala Mendia"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11429,
+                    "nam": "Cala Romàntica"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "428",
+            "color": "#76A6B9",
+            "dem": false,
+            "id": 3138,
+            "nam": "Cala d'Or - Portocristo",
+            "sec": "400",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-10-31",
+                    "ini": "1972-05-01",
+                    "nam": "Cales de Mallorca - Portocristo"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11403,
+                    "nam": "Cala d'Or"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11402,
+                    "nam": "S'Horta"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11398,
+                    "nam": "Portocolom"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11497,
+                    "nam": "Cala Tropicana"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11399,
+                    "nam": "Cales de Mallorca"
+                },
+                {
+                    "dis": 16.0,
+                    "id": 11427,
+                    "nam": "Portocristo"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "431d",
+            "color": "#C2135F",
+            "dem": true,
+            "id": 3147,
+            "nam": "Algaida - Llucmajor",
+            "sec": "400",
+            "sessions": [
+                {
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Algaida - Llucmajor"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11212,
+                    "nam": "Algaida"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11491,
+                    "nam": "Randa"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11419,
+                    "nam": "Llucmajor"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "432",
+            "color": "#BF8BBD",
+            "dem": false,
+            "id": 3150,
+            "nam": "Sineu - Algaida",
+            "sec": "400",
+            "sessions": [
+                {
+                    "busTypeId": "I8",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Sineu - Lloret - Algaida"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11187,
+                    "nam": "Sineu"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11415,
+                    "nam": "Lloret"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11387,
+                    "nam": "Pina"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11212,
+                    "nam": "Algaida"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "441",
+            "color": "#0C5213",
+            "dem": false,
+            "id": 3073,
+            "nam": "Ariany - Maria - Sineu",
+            "sec": "400",
+            "sessions": [
+                {
+                    "busTypeId": "I8",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Ariany - Maria - Sineu"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11187,
+                    "nam": "Sineu"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11440,
+                    "nam": "Ariany"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11439,
+                    "nam": "Maria de la Salut"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "442",
+            "color": "#BBDDA0",
+            "dem": false,
+            "id": 3074,
+            "nam": "Sant Joan",
+            "sec": "400",
+            "sessions": [
+                {
+                    "busTypeId": "I8",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Vilafranca - Sineu"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11187,
+                    "nam": "Sineu"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11416,
+                    "nam": "Sant Joan"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11445,
+                    "nam": "Vilafranca"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "501",
+            "color": "#0C5213",
+            "dem": false,
+            "id": 3075,
+            "nam": "Manacor - Campos - Palma",
+            "sec": "500",
+            "sessions": [
+                {
+                    "busTypeId": "I15",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Manacor - Campos - Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11419,
+                    "nam": "Llucmajor"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11393,
+                    "nam": "Campos"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11215,
+                    "nam": "Felanitx"
+                },
+                {
+                    "dis": 12.0,
+                    "id": 11189,
+                    "nam": "Manacor"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "501e",
+            "color": "#0C5213",
+            "dem": false,
+            "id": 3127,
+            "nam": "Campos - Palma, exprés",
+            "sec": "500",
+            "sessions": [
+                {
+                    "busTypeId": "I15",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Campos - Palma, exprés"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11393,
+                    "nam": "Campos"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "504",
+            "color": "#5C0720",
+            "dem": false,
+            "id": 3078,
+            "nam": "Tolleric - Palma",
+            "sec": "500",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Tolleric - Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11425,
+                    "nam": "Tolleric"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11420,
+                    "nam": "Badia Gran"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11421,
+                    "nam": "Badia Blava"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11422,
+                    "nam": "Sa Torre"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11424,
+                    "nam": "Puigderrós"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11423,
+                    "nam": "Maioris Decima"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11426,
+                    "nam": "Les Palmeres"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11463,
+                    "nam": "Cala Blava"
+                },
+                {
+                    "dis": 12.0,
+                    "id": 11418,
+                    "nam": "Son Verí Nou"
+                },
+                {
+                    "dis": 15.0,
+                    "id": 11417,
+                    "nam": "S'Arenal"
+                },
+                {
+                    "dis": 19.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "505",
+            "color": "#B786A2",
+            "dem": false,
+            "id": 3136,
+            "nam": "Cala Pi - Tolleric",
+            "sec": "500",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-10-31",
+                    "ini": "1972-04-01",
+                    "nam": "Cala Pi - Palma"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11390,
+                    "nam": "Cala Pi"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11425,
+                    "nam": "Tolleric"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "508",
+            "color": "#FFAC00",
+            "dem": false,
+            "id": 3135,
+            "nam": "Sa Ràpita - Palma",
+            "sec": "500",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Campos - sa Ràpita - Llucmajor - Palma"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11389,
+                    "nam": "sa Ràpita"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11392,
+                    "nam": "Son Bieló"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11391,
+                    "nam": "S'Estanyol"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11419,
+                    "nam": "Llucmajor"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11417,
+                    "nam": "S'Arenal"
+                },
+                {
+                    "dis": 12.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "512",
+            "color": "#A5CFBA",
+            "dem": false,
+            "id": 3080,
+            "nam": "Portocolom - Felanitx",
+            "sec": "500",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Portocolom - Felanitx"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 1.0,
+                    "id": 11215,
+                    "nam": "Felanitx"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11398,
+                    "nam": "Portocolom"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "514",
+            "color": "#E55900",
+            "dem": false,
+            "id": 3081,
+            "nam": "Cala d'Or - Felanitx - Porreres",
+            "sec": "500",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Cala d'Or - Felanitx"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11403,
+                    "nam": "Cala d'Or"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11405,
+                    "nam": "Calonge"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11402,
+                    "nam": "S'Horta"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11413,
+                    "nam": "Es Carritxó"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11412,
+                    "nam": "Cas Concos"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11215,
+                    "nam": "Felanitx"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11214,
+                    "nam": "Porreres"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "515",
+            "color": "#F5B490",
+            "dem": false,
+            "id": 3082,
+            "nam": "Cala d'Or - Campos",
+            "sec": "500",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Cala d'Or - Campos"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 1.0,
+                    "id": 11403,
+                    "nam": "Cala d'Or"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11411,
+                    "nam": "Portopetro"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11404,
+                    "nam": "S'Alqueria Blanca"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11442,
+                    "nam": "Santanyí"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11393,
+                    "nam": "Campos"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "515e",
+            "color": "#F5B490",
+            "dem": false,
+            "id": 3160,
+            "nam": "Cala d'Or - Palma",
+            "sec": "500",
+            "sessions": [
+                {
+                    "busTypeId": "I12",
+                    "cur": true,
+                    "end": "1972-10-31",
+                    "ini": "1972-05-01",
+                    "nam": "Cala d'Or - Palma"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11403,
+                    "nam": "Cala d'Or"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11411,
+                    "nam": "Portopetro"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11404,
+                    "nam": "S'Alqueria Blanca"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11442,
+                    "nam": "Santanyí"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "516",
+            "color": "#90ACC3",
+            "dem": false,
+            "id": 3083,
+            "nam": "Cala Figuera - Campos",
+            "sec": "500",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Cala Figuera - Campos"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11409,
+                    "nam": "Cala Figuera"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11408,
+                    "nam": "Cala Santanyí"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11410,
+                    "nam": "Son Moja"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11442,
+                    "nam": "Santanyí"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11393,
+                    "nam": "Campos"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "517",
+            "color": "#A90E51",
+            "dem": false,
+            "id": 3084,
+            "nam": "Santanyí - Colònia de Sant Jordi - Campos",
+            "sec": "500",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Santanyí - Colònia de Sant Jordi - Campos"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11442,
+                    "nam": "Santanyí"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11441,
+                    "nam": "Es Llombards"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11443,
+                    "nam": "Ses Salines"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11444,
+                    "nam": "Colònia de Sant Jordi"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11393,
+                    "nam": "Campos"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "518",
+            "color": "#C6D9C1",
+            "dem": false,
+            "id": 3146,
+            "nam": "Sa Ràpita - Campos",
+            "sec": "500",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Sa Ràpita - Campos"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11389,
+                    "nam": "sa Ràpita"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11393,
+                    "nam": "Campos"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "519d",
+            "color": "#980000",
+            "dem": true,
+            "id": 3086,
+            "nam": "Cala Pi - Llucmajor",
+            "sec": "500",
+            "sessions": [
+                {
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Cala Pi - Llucmajor"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11390,
+                    "nam": "Cala Pi"
+                },
+                {
+                    "dis": 1.0,
+                    "id": 11419,
+                    "nam": "Llucmajor"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "521",
+            "color": "#863C74",
+            "dem": false,
+            "id": 3102,
+            "nam": "Cala d'Or - Cala Mondragó",
+            "sec": "500",
+            "sessions": [
+                {
+                    "busTypeId": "U12h",
+                    "cur": true,
+                    "end": "1972-10-31",
+                    "ini": "1972-04-25",
+                    "nam": "Cala d'Or - Cala Mondragó"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11403,
+                    "nam": "Cala d'Or"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11411,
+                    "nam": "Portopetro"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11406,
+                    "nam": "Sa Barca Trencada"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11407,
+                    "nam": "Cala Mondragó"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "A11",
+            "color": "#EC9900",
+            "dem": false,
+            "id": 3111,
+            "nam": "Peguera - Aeroport",
+            "sessions": [
+                {
+                    "busTypeId": "LA12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Peguera - Aeroport"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11244,
+                    "nam": "Peguera"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11238,
+                    "nam": "Galatzó"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11237,
+                    "nam": "Santa Ponça"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11230,
+                    "nam": "Magaluf"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11229,
+                    "nam": "Palmanova"
+                },
+                {
+                    "dis": 13.0,
+                    "id": 11228,
+                    "nam": "Son Caliu"
+                },
+                {
+                    "dis": 15.0,
+                    "id": 11477,
+                    "nam": "Costa d'en Blanes - Portals Nous"
+                },
+                {
+                    "dis": 16.0,
+                    "id": 11226,
+                    "nam": "Portals Nous"
+                },
+                {
+                    "dis": 18.0,
+                    "id": 11225,
+                    "nam": "Bendinat"
+                },
+                {
+                    "dis": 19.0,
+                    "id": 11456,
+                    "nam": "Aeroport"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 6
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "A32",
+            "color": "#A90E51",
+            "dem": false,
+            "id": 3113,
+            "nam": "Can Picafort - Aeroport",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-10-31",
+                    "ini": "1972-04-01",
+                    "nam": "Can Picafort - Aeroport"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11329,
+                    "nam": "Can Picafort"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11290,
+                    "nam": "Platja de Muro"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11283,
+                    "nam": "Platja d'Alcúdia"
+                },
+                {
+                    "dis": 14.0,
+                    "id": 11284,
+                    "nam": "Port d'Alcúdia"
+                },
+                {
+                    "dis": 16.0,
+                    "id": 11286,
+                    "nam": "Alcúdia"
+                },
+                {
+                    "dis": 17.0,
+                    "id": 11186,
+                    "nam": "Sa Pobla"
+                },
+                {
+                    "dis": 18.0,
+                    "id": 11182,
+                    "nam": "Inca"
+                },
+                {
+                    "dis": 19.0,
+                    "id": 11456,
+                    "nam": "Aeroport"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 6
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "A33",
+            "color": "#A90E51",
+            "dem": false,
+            "id": 3226,
+            "nam": "Port d'Alcúdia - Aeroport",
+            "sessions": [
+                {
+                    "busTypeId": "LA12",
+                    "cur": true,
+                    "end": "1976-04-01",
+                    "ini": "1972-11-01",
+                    "nam": "Port d'Alcúdia - Aeroport"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11284,
+                    "nam": "Port d'Alcúdia"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11286,
+                    "nam": "Alcúdia"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11186,
+                    "nam": "Sa Pobla"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11182,
+                    "nam": "Inca"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11456,
+                    "nam": "Aeroport"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 6
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "A42",
+            "color": "#03A100",
+            "dem": false,
+            "id": 3114,
+            "nam": "Cala Bona - Aeroport",
+            "sessions": [
+                {
+                    "busTypeId": "L12",
+                    "cur": true,
+                    "end": "1972-10-31",
+                    "ini": "1972-04-01",
+                    "nam": "Cala Bona - Aeroport"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11435,
+                    "nam": "Cala Bona"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11432,
+                    "nam": "Cala Millor"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11431,
+                    "nam": "sa Coma"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11430,
+                    "nam": "S'Illot"
+                },
+                {
+                    "dis": 12.0,
+                    "id": 11427,
+                    "nam": "Portocristo"
+                },
+                {
+                    "dis": 14.0,
+                    "id": 11189,
+                    "nam": "Manacor"
+                },
+                {
+                    "dis": 17.0,
+                    "id": 11445,
+                    "nam": "Vilafranca"
+                },
+                {
+                    "dis": 18.0,
+                    "id": 11213,
+                    "nam": "Montuïri"
+                },
+                {
+                    "dis": 19.0,
+                    "id": 11212,
+                    "nam": "Algaida"
+                },
+                {
+                    "dis": 20.0,
+                    "id": 11456,
+                    "nam": "Aeroport"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 6
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "A43",
+            "color": "#03A100",
+            "dem": false,
+            "id": 3225,
+            "nam": "Manacor - Aeroport",
+            "sessions": [
+                {
+                    "busTypeId": "LA12",
+                    "cur": true,
+                    "end": "1976-04-01",
+                    "ini": "1972-11-01",
+                    "nam": "Manacor - Aeroport"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11189,
+                    "nam": "Manacor"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11445,
+                    "nam": "Vilafranca"
+                },
+                {
+                    "dis": 4.0,
+                    "id": 11213,
+                    "nam": "Montuïri"
+                },
+                {
+                    "dis": 5.0,
+                    "id": 11212,
+                    "nam": "Algaida"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11456,
+                    "nam": "Aeroport"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 6
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "A51",
+            "color": "#28689D",
+            "dem": false,
+            "id": 3121,
+            "nam": "Campos - Aeroport",
+            "sessions": [
+                {
+                    "busTypeId": "LA12",
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Campos - Aeroport"
+                }
+            ],
+            "summ": true,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11393,
+                    "nam": "Campos"
+                },
+                {
+                    "dis": 2.0,
+                    "id": 11419,
+                    "nam": "Llucmajor"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11417,
+                    "nam": "S'Arenal"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11456,
+                    "nam": "Aeroport"
+                }
+            ],
+            "typ": 3,
+            "zoneTransport": [
+                {
+                    "id": 6
+                }
+            ]
+        },
+        {
+            "act": false,
+            "cod": "M1",
+            "color": "#FFDD00",
+            "dem": false,
+            "id": 216,
+            "nam": "Palma - UIB - ParcBit",
+            "sec": "Metro",
+            "sessions": [
+                {
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Metro UIB"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                },
+                {
+                    "dis": 3.0,
+                    "id": 11175,
+                    "nam": "Polígon Son Castelló"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11176,
+                    "nam": "Son Sardina"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11177,
+                    "nam": "UIB"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11504,
+                    "nam": "ParcBit"
+                }
+            ],
+            "typ": 2
+        },
+        {
+            "act": false,
+            "cod": "T1",
+            "color": "#005192",
+            "dem": false,
+            "id": 218,
+            "nam": "Palma - Inca",
+            "sec": "Tren",
+            "sessions": [
+                {
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Tren Inca"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 1.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11170,
+                    "nam": "Pont d'Inca"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11171,
+                    "nam": "Pont d'Inca Nou"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11172,
+                    "nam": "Polígon de Marratxí"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11173,
+                    "nam": "Marratxí / es Figueral"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11174,
+                    "nam": "Es Caülls"
+                },
+                {
+                    "dis": 12.0,
+                    "id": 11178,
+                    "nam": "Santa Maria"
+                },
+                {
+                    "dis": 13.0,
+                    "id": 11179,
+                    "nam": "Consell"
+                },
+                {
+                    "dis": 14.0,
+                    "id": 11180,
+                    "nam": "Binissalem"
+                },
+                {
+                    "dis": 15.0,
+                    "id": 11181,
+                    "nam": "Lloseta"
+                },
+                {
+                    "dis": 16.0,
+                    "id": 11182,
+                    "nam": "Inca"
+                }
+            ],
+            "typ": 1
+        },
+        {
+            "act": false,
+            "cod": "T2",
+            "color": "#005192",
+            "dem": false,
+            "id": 219,
+            "nam": "Palma - sa Pobla",
+            "sec": "Tren",
+            "sessions": [
+                {
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Tren Sa Pobla"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11170,
+                    "nam": "Pont d'Inca"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11171,
+                    "nam": "Pont d'Inca Nou"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11172,
+                    "nam": "Polígon de Marratxí"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11173,
+                    "nam": "Marratxí / es Figueral"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11174,
+                    "nam": "Es Caülls"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11178,
+                    "nam": "Santa Maria"
+                },
+                {
+                    "dis": 12.0,
+                    "id": 11179,
+                    "nam": "Consell"
+                },
+                {
+                    "dis": 13.0,
+                    "id": 11180,
+                    "nam": "Binissalem"
+                },
+                {
+                    "dis": 14.0,
+                    "id": 11181,
+                    "nam": "Lloseta"
+                },
+                {
+                    "dis": 15.0,
+                    "id": 11182,
+                    "nam": "Inca"
+                },
+                {
+                    "dis": 17.0,
+                    "id": 11183,
+                    "nam": "Enllaç"
+                },
+                {
+                    "dis": 18.0,
+                    "id": 11184,
+                    "nam": "Llubí"
+                },
+                {
+                    "dis": 19.0,
+                    "id": 11185,
+                    "nam": "Muro"
+                },
+                {
+                    "dis": 20.0,
+                    "id": 11186,
+                    "nam": "Sa Pobla"
+                }
+            ],
+            "typ": 1
+        },
+        {
+            "act": false,
+            "cod": "T3",
+            "color": "#005192",
+            "dem": false,
+            "id": 220,
+            "nam": "Palma - Manacor",
+            "sec": "Tren",
+            "sessions": [
+                {
+                    "cur": true,
+                    "end": "1972-12-31",
+                    "ini": "1972-01-01",
+                    "nam": "Tren Manacor"
+                }
+            ],
+            "summ": false,
+            "towns": [
+                {
+                    "dis": 0.0,
+                    "id": 11167,
+                    "nam": "Palma"
+                },
+                {
+                    "dis": 6.0,
+                    "id": 11170,
+                    "nam": "Pont d'Inca"
+                },
+                {
+                    "dis": 7.0,
+                    "id": 11171,
+                    "nam": "Pont d'Inca Nou"
+                },
+                {
+                    "dis": 8.0,
+                    "id": 11172,
+                    "nam": "Polígon de Marratxí"
+                },
+                {
+                    "dis": 9.0,
+                    "id": 11173,
+                    "nam": "Marratxí / es Figueral"
+                },
+                {
+                    "dis": 10.0,
+                    "id": 11174,
+                    "nam": "Es Caülls"
+                },
+                {
+                    "dis": 11.0,
+                    "id": 11178,
+                    "nam": "Santa Maria"
+                },
+                {
+                    "dis": 12.0,
+                    "id": 11179,
+                    "nam": "Consell"
+                },
+                {
+                    "dis": 13.0,
+                    "id": 11180,
+                    "nam": "Binissalem"
+                },
+                {
+                    "dis": 14.0,
+                    "id": 11181,
+                    "nam": "Lloseta"
+                },
+                {
+                    "dis": 15.0,
+                    "id": 11182,
+                    "nam": "Inca"
+                },
+                {
+                    "dis": 17.0,
+                    "id": 11187,
+                    "nam": "Sineu"
+                },
+                {
+                    "dis": 18.0,
+                    "id": 11188,
+                    "nam": "Petra"
+                },
+                {
+                    "dis": 19.0,
+                    "id": 11189,
+                    "nam": "Manacor"
+                }
+            ],
+            "typ": 1
+        }
+    ]
+}

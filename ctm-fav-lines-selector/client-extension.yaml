@@ -1,0 +1,17 @@
+assemble:
+    -   from: vite-build
+        into: static
+formulari-reclamacions-tib:
+    cssURLs:
+        -   "assets/*.css"
+    friendlyURLMapping: formulari-reclamacions-tib
+    htmlElementName: ctm-fav-lines-selector
+    instanceable: false
+    name: Selector de linies preferides
+    portletCategoryName: category.client-extensions
+    properties:
+        foo: bar
+    type: customElement
+    urls:
+        -   "assets/*.js"
+    useESM: true

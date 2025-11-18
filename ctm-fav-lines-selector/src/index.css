@@ -1,0 +1,61 @@
+.lines-selector-container{
+  font-family: TIB,Roboto,sans-serif !important;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.lines-selector-container .lines-selector-content{
+  display: flex;
+}
+
+.lines-selector-container .lines-selector-title{
+  display: flex;
+}
+
+.lines-selector-container img{
+  width: 25px;
+  margin-right: 10px;
+}
+
+.lines-selector-container h3{
+  color: #666;
+  font-size: 16px;
+  line-height: 28px;
+  font-family: TIB,Roboto,sans-serif !important;
+}
+
+.lines-selector-container a {
+  color: white !important;
+  font-size: 20px !important;
+  text-decoration: none;
+}
+.lines-selector-container a:hover {
+  text-decoration: underline;
+}
+
+.lines-selector-container ul{
+  list-style: none;
+  list-style-position: inside;
+
+  display: flex;
+  flex-flow: row wrap;
+  
+  padding: 0px;
+  margin: 0px;
+
+  width: 100%;
+}
+
+.lines-selector-container li{
+  padding: 5px 10px;
+  
+  margin-right: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
