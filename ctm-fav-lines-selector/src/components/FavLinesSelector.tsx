@@ -41,7 +41,7 @@ export function FavLinesSelector(){
                     <h3>Línies preferides</h3>
                 </div>
                 <div className='lines-selector-content'>
-                    <ul>
+                    <ul className='ctm-ul'>
                         {lines.map(
                             (line) => (
                                 <li key={line.id} style={{backgroundColor: `${line.color}`}}>
