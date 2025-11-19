@@ -40,7 +40,7 @@ export function FavLinesSelector(){
                     <img className='lines-selector-star' src={fav_grey} alt="Línies preferides" />
                     <h3>Línies preferides</h3>
                 </div>
-                <div className='linies-selector-content'>
+                <div className='lines-selector-content'>
                     <ul>
                         {lines.map(
                             (line) => (

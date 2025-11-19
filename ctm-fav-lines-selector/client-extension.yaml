@@ -1,10 +1,10 @@
 assemble:
     -   from: vite-build
         into: static
-formulari-reclamacions-tib:
+ctm-fav-lines-selector:
     cssURLs:
         -   "assets/*.css"
-    friendlyURLMapping: formulari-reclamacions-tib
+    friendlyURLMapping: ctm-fav-lines-selector
     htmlElementName: ctm-fav-lines-selector
     instanceable: false
     name: Selector de linies preferides
